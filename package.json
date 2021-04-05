@@ -2,11 +2,14 @@
   "name": "webui-marathon",
   "version": "1.0.0",
   "scripts": {
-  "task1": "script1.js",
-  "task2": "script2.js"
+  "task1": "node script1.js",
+  "task2": "node script2.js"
 },
   "author": "IT Academy",
-  "dependencies": "bootstrap",
-  "devDependencies": "typescript"
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+  "devDependencies": {
+    "typescript": "^4.2.3"
   }
 }
