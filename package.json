@@ -2,7 +2,7 @@
   "name": "webui-marathon",
   "version": "1.0.0",
   "scripts": {
-  "task1": "node sript1.js",
+  "task1": "node script1.js",
   "task2": "node script2.js"
 },
   "author": "IT Academy",
