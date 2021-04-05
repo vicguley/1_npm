@@ -8,7 +8,7 @@
   "author": "IT Academy",
   "dependencies": {
     "bootstrap": "^4.1.1"
-  }
+  },
   "devDependencies": {
     "typescript": "^4.2.3"
   }
