@@ -1,5 +1,7 @@
 {
   "name": "webui-marathon",
   "version": "1.0.0",
-  "author": "IT Academy"
+  "author": "IT Academy",
+  "dependencies: "bootstrap",
+  "devDependencies": "typescript"
 }
